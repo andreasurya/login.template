@@ -1,0 +1,90 @@
+body 
+{
+    background: url("Bakcground.jpg") no-repeat center center fixed;
+    background-size: cover;
+}  
+
+.main-section 
+{
+    padding: 0;
+    margin: 0 auto;
+    margin-top: 25%;
+}
+
+.modal-content 
+{
+    opacity: 90%;
+    padding: 0 0;
+    border-radius: 15px;
+    background-color: black;
+    box-shadow: 0px 0px 3px rgb(180, 136, 86);
+}
+
+.logo-png 
+{
+    margin-top: -50px;
+    margin-bottom: 35px;
+}
+
+.logo-png img 
+{
+    width: 8rem;
+    height: 7rem;
+    border-radius: 50%;
+    box-shadow: 3px 0px 25px rgb(180, 136, 86);
+}
+
+.form-box 
+{
+    padding: 2rem;
+    padding-bottom: 1rem;
+}
+
+.form-group input 
+{
+    border: 0;
+    height: 38px;
+    width: 19rem;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+button 
+{
+    width: 60%;
+    margin: 5px 0 25px;
+}
+
+.login 
+{
+    color: white;
+    text-decoration: none !important;
+}
+
+.forgot 
+{
+    padding: 5px 0;
+}
+
+.forgot a 
+{
+    color: white;
+}
+  
+.hr 
+{
+    color: white;
+    height: 3px;
+    width: 21rem;
+    margin: 10px 1.5rem;
+}
+  
+.signup 
+{
+    color: white;
+}
+  
+.signup a 
+{
+    color: white;
+}
